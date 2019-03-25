@@ -7,13 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f7340fa-e15d-4d25-8b6b-4426416db86c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../JDBC/ResumeDbApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JDBC/ResumeDbApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JDBC/ResumeDbApp/target/ResumeDbApp-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../JDBC/ResumeDbApp/target/ResumeDbApp-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JDBC/ResumeDbApp/target/classes/com/mycompany/Dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JDBC/ResumeDbApp/target/classes/com/mycompany/Dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JDBC/ResumeDbApp/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../JDBC/ResumeDbApp/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/ResumeDbAppJpa-0.1-jpa.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/ResumeDbAppJpa-0.1-jpa.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/resume/controller/AdminLogincontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/resume/controller/AdminLogincontroller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/adminlogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/adminlogin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/resume/controller/AdminLogincontroller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resumewebapp/WEB-INF/classes/com/company/resume/controller/AdminLogincontroller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/resumewebapp/adminlogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/resumewebapp/adminlogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resumewebapp.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/resumewebapp.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resumewebapp/WEB-INF/lib/ResumeDbApp-0.1.jar" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,6 +106,35 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-2103969426">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="15" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf />
@@ -115,7 +150,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -139,6 +174,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/company/resume/filter/SecurityFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/resume/controller/AdminLogincontroller.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/adminlogin.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/persistence.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
@@ -178,11 +214,14 @@
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,30 +260,19 @@
               <item name="resumewebapp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="resume" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="resumewebapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="resumewebapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552920382540" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553536402648" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JDBC/ResumeDbApp" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -360,11 +388,12 @@
       <workItem from="1553376141740" duration="53000" />
       <workItem from="1553459156885" duration="158000" />
       <workItem from="1553532710302" duration="449000" />
+      <workItem from="1553535794218" duration="669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9768000" />
+    <option name="totallyTimeSpent" value="10437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -375,7 +404,7 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.26912752" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.27315435" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -529,16 +558,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-start-column="2" selection-end-line="41" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#1967#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="620">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
         </state>
       </provider>
     </entry>

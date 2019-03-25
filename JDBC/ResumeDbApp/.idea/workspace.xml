@@ -2,43 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc34fcbe-1810-4482-a0d7-cdda4538befe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/libraries/Maven__javax_javaee_web_api_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/libraries/Maven__org_eclipse_persistence_commonj_sdo_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/libraries/Maven__org_eclipse_persistence_eclipselink_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/libraries/Maven__org_eclipse_persistence_javax_persistence_2_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/Dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Dao/impl/UserDaoImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ResumeDbApp-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/ResumeDbApp-0.1.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/Dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/Dao/impl/UserDaoImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/ResumeDbApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/ResumeDbApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/ResumeDbApp-0.1-jpa.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/AdminLoginDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/AdminLoginDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/CountryDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/CountryDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/EmploymentHistoryDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/EmploymentHistoryDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/SkillDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/SkillDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/UserDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/UserSkillDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/UserSkillDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/AdminLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/AdminLogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/EmploymentHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/EmploymentHistory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/Skill.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/Skill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/UserSkill.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/UserSkill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/CountryDaoInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/CountryDaoInter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/EmploymentHistoryDaoInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/EmploymentHistoryDaoInter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/SkillDaoInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/SkillDaoInter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/UserDaoInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/UserDaoInter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/UserSkillDaoInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/UserSkillDaoInter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/ResumeDbAppJpa-0.1-jpa.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/ResumeDbAppJpa-0.1-jpa.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webapp/resumewebapp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../webapp/resumewebapp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webapp/resumewebapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../webapp/resumewebapp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webapp/resumewebapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../webapp/resumewebapp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webapp/resumewebapp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../webapp/resumewebapp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webapp/resumewebapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../webapp/resumewebapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webapp/resumewebapp/target/resumewebapp.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../webapp/resumewebapp/target/resumewebapp.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webapp/resumewebapp/target/resumewebapp/WEB-INF/lib/ResumeDbApp-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../webapp/resumewebapp/target/resumewebapp/WEB-INF/lib/ResumeDbApp-0.1.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,19 +67,21 @@
     <session id="-861107547">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="2" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="2" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -120,26 +99,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Dao/impl/UserDaoImpl.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/entity/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-              <folding>
-                <element signature="e#2847#2848#0" expanded="true" />
-                <element signature="e#2893#2894#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="280">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -206,7 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -285,6 +247,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -360,17 +323,19 @@
       <workItem from="1552917266323" duration="288000" />
       <workItem from="1552918310068" duration="28000" />
       <workItem from="1552919507450" duration="270000" />
+      <workItem from="1553536039230" duration="141000" />
+      <workItem from="1553536248958" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18390000" />
+    <option name="totallyTimeSpent" value="18565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2442953" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2261745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -484,16 +449,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Dao/impl/UserDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="-1705">
+          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
+        <state relative-caret-position="900">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="e#2847#2848#0" expanded="true" />
@@ -502,13 +470,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Dao/impl/UserDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="280">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
         </state>
       </provider>
     </entry>

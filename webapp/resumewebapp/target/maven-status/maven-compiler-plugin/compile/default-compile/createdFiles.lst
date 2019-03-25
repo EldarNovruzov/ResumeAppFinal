@@ -5,4 +5,3 @@ com\company\resume\controller\LoginController.class
 com\company\resume\util\ControllerUtil.class
 com\company\resume\controller\ErrorController.class
 com\company\resume\controller\UserController.class
-com\company\resume\controller\AdminLogincontroller.class
