@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc34fcbe-1810-4482-a0d7-cdda4538befe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/libraries/Maven__javax_javaee_web_api_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/libraries/Maven__org_eclipse_persistence_commonj_sdo_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/libraries/Maven__org_eclipse_persistence_eclipselink_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/libraries/Maven__org_eclipse_persistence_javax_persistence_2_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/Dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/Dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ResumeDbApp-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/ResumeDbApp-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/Dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/Dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/ResumeDbApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/ResumeDbApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/ResumeDbApp-0.1-jpa.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/AdminLoginDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/AdminLoginDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/CountryDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/CountryDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/EmploymentHistoryDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/EmploymentHistoryDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/SkillDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/SkillDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/UserSkillDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/Dao/impl/UserSkillDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/AdminLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/AdminLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/Country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/EmploymentHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/EmploymentHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/Skill.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/Skill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/UserSkill.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/entity/UserSkill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/CountryDaoInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/CountryDaoInter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/EmploymentHistoryDaoInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/EmploymentHistoryDaoInter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/SkillDaoInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/SkillDaoInter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/UserDaoInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/UserDaoInter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/UserSkillDaoInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/classes/com/mycompany/main/dao/inter/UserSkillDaoInter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/ResumeDbApp/target/maven-archiver/pom.properties" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="115365880">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="31" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="31" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1321" />
+          <entry key="xml" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1321" />
+          <entry key="XML" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-861107547">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="80" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="80" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Dao/impl/UserDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="e#2847#2848#0" expanded="true" />
+                <element signature="e#2893#2894#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/entity/AdminLogin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/main/dao/inter/AdminLoginDaoInter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/main/Context.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Dao/impl/AdminLoginDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/main/dao/inter/UserDaoInter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/entity/User.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/Dao/impl/UserDaoImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ResumeDbApp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ResumeDbApp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="80" />
+    <option name="y" value="200" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ResumeDbApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ResumeDbApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ResumeDbApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ResumeDbApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ResumeDbApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ResumeDbApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ResumeDbApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ResumeDbApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ResumeDbApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ResumeDbApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ResumeDbApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ResumeDbApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ResumeDbApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ResumeDbApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ResumeDbApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ResumeDbApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ResumeDbApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ResumeDbApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mycompany" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="inter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ResumeDbApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552919702551" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="UserDaoImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.Dao.impl.UserDaoImpl" />
+      <module name="ResumeDbApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.Dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserDaoImpl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc34fcbe-1810-4482-a0d7-cdda4538befe" name="Default Changelist" comment="" />
+      <created>1549921822903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549921822903</updated>
+      <workItem from="1549921826891" duration="2752000" />
+      <workItem from="1549993471403" duration="1477000" />
+      <workItem from="1550497742356" duration="160000" />
+      <workItem from="1550501131479" duration="2166000" />
+      <workItem from="1550509720349" duration="130000" />
+      <workItem from="1550589794388" duration="4197000" />
+      <workItem from="1550601855135" duration="80000" />
+      <workItem from="1550601993569" duration="103000" />
+      <workItem from="1550602798470" duration="148000" />
+      <workItem from="1550681071983" duration="159000" />
+      <workItem from="1551098365611" duration="2782000" />
+      <workItem from="1551105811555" duration="608000" />
+      <workItem from="1551107585417" duration="23000" />
+      <workItem from="1551108068862" duration="2306000" />
+      <workItem from="1551112535188" duration="233000" />
+      <workItem from="1551112836982" duration="28000" />
+      <workItem from="1551113008633" duration="279000" />
+      <workItem from="1551356825503" duration="23000" />
+      <workItem from="1552916953073" duration="150000" />
+      <workItem from="1552917266323" duration="288000" />
+      <workItem from="1552918310068" duration="28000" />
+      <workItem from="1552919507450" duration="270000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18390000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2442953" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Dao/impl/SkillDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/entity/UserSkill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Dao/impl/UserSkillDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/main/dao/inter/CountryDaoInter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/entity/Skill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/main/dao/inter/AdminLoginDaoInter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/main/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Dao/impl/AdminLoginDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/entity/AdminLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/main/dao/inter/UserDaoInter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#2847#2848#0" expanded="true" />
+            <element signature="e#2893#2894#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/Dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+body{
+    font-size: 20px;
+}
+
+.btn{
+    border: 1px solid #da7c08;
+    color: white;
+    background-color: #da7c08;
+    font-size: 15px;
+}
+
+.mycontainer div{
+    margin-bottom: 10px;
+}
+
+.control_panel{
+    border: 1px solid;
+}
+
+.control_panel input{
+    border: 1px solid;
+    color: #FF9800;
+    padding: 5px;
+}
+
+.control_panel label{
+    display: inline-block;
+    width: 10%;
+}
+
+.control_panel_group{
+    margin-top: 2px;
+}
+
+.btn_table{
+    border: 0px;
+    font-size: 23px;
+    background-color: white;
+}
